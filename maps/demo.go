@@ -29,4 +29,4 @@ func main() {
 	}
 	fmt.Println("There are", totalItems, "on the shopping list")
 
-}
+}w
